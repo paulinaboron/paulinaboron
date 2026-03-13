@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Paulina from Kraków, Poland<br><br>- 🔭 I’m a Computer Science and Econometrics student<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Paulina from Kraków, Poland<br><br>- 🔭 I’m a Computer Science and Econometrics student, aspiring Software Engineer <br>- 📚 I'm currently learning how to analyse data in R<br>- ⚡ In my free time I go on hikes and swing dance parties</p>
 
 ###
 
